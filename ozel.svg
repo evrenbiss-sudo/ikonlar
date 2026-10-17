@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 470" width="400" height="470" role="img" aria-label="Özel Güvenlik amblemi">
+  <defs>
+    <!-- Yildiz icin hafif 3B golgelendirme -->
+    <linearGradient id="starShade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.6" stop-color="#f2f2f2"/>
+      <stop offset="1" stop-color="#b8b8b8"/>
+    </linearGradient>
+    <!-- Ust yazi icin kavisli yol -->
+    <path id="topArc" d="M 72 118 A 150 125 0 0 1 328 118" fill="none"/>
+  </defs>
+
+  <!-- ===== DIS KALKAN (siyah zemin) ===== -->
+  <path d="M200 8
+           C 118 8, 58 20, 38 42
+           C 34 122, 46 232, 90 322
+           C 120 388, 160 430, 200 455
+           C 240 430, 280 388, 310 322
+           C 354 232, 366 122, 362 42
+           C 342 20, 282 8, 200 8 Z"
+        fill="#000000" stroke="#ffffff" stroke-width="4"/>
+
+  <!-- ===== UST YAZI: OZEL GUVENLIK ===== -->
+  <text font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700"
+        fill="#ffffff" letter-spacing="2">
+    <textPath href="#topArc" startOffset="50%" text-anchor="middle">ÖZEL GÜVENLİK</textPath>
+  </text>
+
+  <!-- ===== BUYUK BEYAZ YILDIZ (hafif golgeli) ===== -->
+  <path d="M200 150
+           L 221.4 211.7
+           L 286.6 212.9
+           L 234.6 252.4
+           L 253.6 315.6
+           L 200 278.3
+           L 146.4 315.6
+           L 165.4 252.4
+           L 113.4 212.9
+           L 178.6 211.7 Z"
+        fill="url(#starShade)" stroke="#9a9a9a" stroke-width="1"/>
+
+  <!-- ===== MERKEZ: TURK BAYRAGI DAIRESI ===== -->
+  <g transform="translate(200 235)">
+    <!-- Beyaz dis halka -->
+    <circle r="44" fill="#ffffff"/>
+    <!-- Kirmizi zemin -->
+    <circle r="39" fill="#E30A17"/>
+    <!-- Hilal: beyaz daire + ustune kirmizi daire ile oyma -->
+    <circle cx="-3" cy="0" r="25" fill="#ffffff"/>
+    <circle cx="4" cy="0" r="20" fill="#E30A17"/>
+    <!-- Kucuk bes koseli yildiz (hilalin agzinda) -->
+    <path d="M0 -10.5
+             L 2.47 -3.24 L 10.11 -3.24 L 3.93 1.24
+             L 6.17 8.5 L 0 4.01 L -6.17 8.5 L -3.93 1.24
+             L -10.11 -3.24 L -2.47 -3.24 Z"
+          transform="translate(17 0)" fill="#ffffff"/>
+  </g>
+
+  <!-- ===== ALT: CIFT BASLI KARTAL (Selcuklu motifi, beyaz siluet) ===== -->
+  <g transform="translate(200 356)" fill="#ffffff">
+    <!-- Govde + kuyruk -->
+    <path d="M0 -4
+             C -6 -2 -8 6 -7 16
+             C -6 24 -4 30 0 34
+             C 4 30 6 24 7 16
+             C 8 6 6 -2 0 -4 Z"/>
+    <!-- Sol kanat (yukari acilan) -->
+    <path d="M-5 -6
+             C -16 -16 -30 -20 -43 -16
+             C -36 -14 -30 -12 -26 -8
+             C -34 -8 -40 -2 -43 8
+             C -36 2 -28 1 -21 3
+             C -27 10 -27 20 -21 28
+             C -20 20 -16 13 -9 9
+             C -7 4 -6 -1 -5 -6 Z"/>
+    <!-- Sag kanat (ayna) -->
+    <path d="M5 -6
+             C 16 -16 30 -20 43 -16
+             C 36 -14 30 -12 26 -8
+             C 34 -8 40 -2 43 8
+             C 36 2 28 1 21 3
+             C 27 10 27 20 21 28
+             C 20 20 16 13 9 9
+             C 7 4 6 -1 5 -6 Z"/>
+    <!-- Sol bas (sola bakan profil) -->
+    <path d="M-2 -8
+             C -6 -14 -13 -16 -14 -24
+             C -14 -30 -10 -34 -5 -33
+             C -8 -31 -9 -28 -7 -26
+             C -10 -27 -10 -23 -7 -22
+             C -5 -20 -3 -15 -2 -10 Z"/>
+    <!-- Sag bas (saga bakan profil) -->
+    <path d="M2 -8
+             C 6 -14 13 -16 14 -24
+             C 14 -30 10 -34 5 -33
+             C 8 -31 9 -28 7 -26
+             C 10 -27 10 -23 7 -22
+             C 5 -20 3 -15 2 -10 Z"/>
+  </g>
+</svg>
