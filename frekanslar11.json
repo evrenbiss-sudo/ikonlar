@@ -1,0 +1,1082 @@
+[
+    {
+        "kanal": "PAL FM",
+        "frekans": "11023.4 H 16500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "RADYO DORUK",
+        "frekans": "11023.4 H 16500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TATLISES RADIO",
+        "frekans": "11023.4 H 16500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "DAMARTURK RADIO",
+        "frekans": "11023.4 H 16500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "AK1LL1 TV",
+        "frekans": "11023.4 H 16500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "NURS TV",
+        "frekans": "11023.4 H 16500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TMB TV",
+        "frekans": "11023.4 H 16500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "VIRTUAL SPORTS",
+        "frekans": "11023.4 H 16500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "ANT TV",
+        "frekans": "11023.4 H 16500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "GUNAZ TV",
+        "frekans": "11023.4 H 16500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "KALAMEH",
+        "frekans": "11023.4 H 16500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "IRAN INTERNATIONAL",
+        "frekans": "11023.4 H 16500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "AJARA TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "EUROTRIO",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "IMEDI TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "RADIO IVERA",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "RADIO IMEDI",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TV PIRVELI",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "MTAVARI ARKHI",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "RADIO ARKHI MUZ",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "GDS TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "MAESTRO TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "OBIEQTIVI TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TV 25",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "MARNEULI TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "KAVKASIA TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "GOD TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "ISLANDIYA TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "EURO 90 TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "POS TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "1 TV GEORGIA",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "RADIO SAZ. MAU",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "INREYTING TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "RUSTAVI 2",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "MARAO TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "COMEDY TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "FORMULA TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "VIRTUAL FOOTBALL (TOPAZ_1)",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TOPAZ_2",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "PRAVDA TUT",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "EQUALYMPIC TV",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "1 TV GANATLEBA",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "AZC PROMO CHANNEL",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "HABER GLOBAL",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TRT WORLD",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TRT HABER",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "UA FASHION",
+        "frekans": "11094.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TMB FM",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "SPACE FM",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "REAL TV",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "DUNYA TV",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "ASAN FM",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "CBC SPORT HD",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "AZTV",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "ICTIMAI TV",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "CBC AZERBAIJAN",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "MEDENIYYET TV",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "ATV AZERBAYCAN",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "IDMAN AZERBAIJAN",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "XEZER TV",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "RADIO RESPUBLIKA",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "ICTIMAI RADIO",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "MTV AZERBAIJAN",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "106.3 FM",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "ARAZ FM",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "MEDIA FM",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "RADIO ANTENN",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "RADIO INT",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "GROZNY TV",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "XEZER FM",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "CBC FM",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "SPACE TV",
+        "frekans": "11174.4 H 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "ARB TV",
+        "frekans": "11024.4 V 12700",
+        "band": "Ku"
+    },
+    {
+        "kanal": "ARB GUNESH",
+        "frekans": "11024.4 V 12700",
+        "band": "Ku"
+    },
+    {
+        "kanal": "ARB 24",
+        "frekans": "11024.4 V 12700",
+        "band": "Ku"
+    },
+    {
+        "kanal": "KEPEZ FM",
+        "frekans": "11024.4 V 12700",
+        "band": "Ku"
+    },
+    {
+        "kanal": "ARB HD",
+        "frekans": "11024.4 V 12700",
+        "band": "Ku"
+    },
+    {
+        "kanal": "KANAL S",
+        "frekans": "11024.4 V 12700",
+        "band": "Ku"
+    },
+    {
+        "kanal": "KTR",
+        "frekans": "11104.4 V 13000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "NEW TV",
+        "frekans": "11104.4 V 13000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "NEXT TV",
+        "frekans": "11104.4 V 13000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TNV PLANETA",
+        "frekans": "11104.4 V 13000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "SUPER TV",
+        "frekans": "11104.4 V 13000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TUMAR FM",
+        "frekans": "11104.4 V 13000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "SALT TV",
+        "frekans": "3842.5 H 1582",
+        "band": "C"
+    },
+    {
+        "kanal": "SPACE DYNAMICS",
+        "frekans": "3840.5 H 1666",
+        "band": "C"
+    },
+    {
+        "kanal": "JEVOAH TV",
+        "frekans": "3873.85 H 1250",
+        "band": "C"
+    },
+    {
+        "kanal": "NEWS CENTRAL",
+        "frekans": "3880.07 H 2500",
+        "band": "C"
+    },
+    {
+        "kanal": "ARISE & SHINE FM",
+        "frekans": "3913.6 H 224",
+        "band": "C"
+    },
+    {
+        "kanal": "ARISE & SHINE TV",
+        "frekans": "3914.75 H 1587",
+        "band": "C"
+    },
+    {
+        "kanal": "JOY TV",
+        "frekans": "3916.52 H 1250",
+        "band": "C"
+    },
+    {
+        "kanal": "DASHMEDIA",
+        "frekans": "3823.1 V 3333",
+        "band": "C"
+    },
+    {
+        "kanal": "CAM 10",
+        "frekans": "3817 V 1665",
+        "band": "C"
+    },
+    {
+        "kanal": "ZODIAK FM",
+        "frekans": "3945.62 V 1190",
+        "band": "C"
+    },
+    {
+        "kanal": "MEDIA MAX",
+        "frekans": "3947.25 V 1305",
+        "band": "C"
+    },
+    {
+        "kanal": "NETCOM TV",
+        "frekans": "3961.1 V 2328",
+        "band": "C"
+    },
+    {
+        "kanal": "MFM TV",
+        "frekans": "3978.1 V 2111",
+        "band": "C"
+    },
+    {
+        "kanal": "UPENDO TV",
+        "frekans": "4136.7 V 1603",
+        "band": "C"
+    },
+    {
+        "kanal": "DUNAMIS TV",
+        "frekans": "4118.7 V 1180",
+        "band": "C"
+    },
+    {
+        "kanal": "TVE",
+        "frekans": "4129.92 V 2000",
+        "band": "C"
+    },
+    {
+        "kanal": "WASAFI TV",
+        "frekans": "4127.2 V 2380",
+        "band": "C"
+    },
+    {
+        "kanal": "BIGTIMEHIGHLAND FM",
+        "frekans": "4125.55 V 268",
+        "band": "C"
+    },
+    {
+        "kanal": "SAHARA TV",
+        "frekans": "4122.5 V 2380",
+        "band": "C"
+    },
+    {
+        "kanal": "WRM TV",
+        "frekans": "4120.3 V 1200",
+        "band": "C"
+    },
+    {
+        "kanal": "CLOUDS TV",
+        "frekans": "4132.5 V 1843",
+        "band": "C"
+    },
+    {
+        "kanal": "CHANNEL 10",
+        "frekans": "4112.19 V 2433",
+        "band": "C"
+    },
+    {
+        "kanal": "CELEBRATION TV",
+        "frekans": "4124.62 V 1057",
+        "band": "C"
+    },
+    {
+        "kanal": "SPACE ENGINEERING",
+        "frekans": "4117.15 V 1390",
+        "band": "C"
+    },
+    {
+        "kanal": "LIVERPOOL FC TV",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "AMC SERIES",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "AMC MOVIES",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "ROMANZA+AFRICA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "E TV AFRICA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "FOX AFRICA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "MTV BASE AFRICA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "NATIONAL GEOGRAPHIC",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "DISCOVERY SCIENCE",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "ID AFRICA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "NICKELODEON AFRICA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "BOING AFRICA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "FIX & FOXI",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "BABY TV EUROPE",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "TOONAMI",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "CBEEBIES",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "BBC WORLD NEWS AFRICA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "STAR PLUS MIDDLE EAST",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "SET INDIA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "SONY MAX",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "TBC",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "STAR TV TANZANIA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "CHANNEL TEN",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "TANZANIA SAFARI CHANNEL",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "ZBC ZANZIBAR",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "TV-E",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "MAHAASIN TV",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "TV IMAAN",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "AFRICA TV 2",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "UPENDO TV",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "HOPE CHANNEL TANZANIA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "WRM TV",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "EMMANUEL TV",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "ARISE & SHINE TV",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "AZAM ONE HD",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "AZAM TWO HD",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "SINEMA ZETU",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "AZAM SPORTS 1 HD",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "AZAM SPORTS 2 HD",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "UTV TANZANIA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "ESPN",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "ESPN 2",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "MBC MAX",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "MBC ACTION",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "KIX ACTION CHANNEL",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "NINA TV ENGLISH",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "TRACE MZIKI",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "NAT GEO WILD",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "AL JAZEERA ENGLISH",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "COLORS INTERNATIONAL",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "STAR GOLD INDIA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "CLOUDS TV",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "ZBC-2 TANZANIA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "ITV TANZANIA",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "EATV5",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "DIZZIM TV",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "-R- UFM RADIOP",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "MBC 2",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "ADBL",
+        "frekans": "4160 V 4180",
+        "band": "C"
+    },
+    {
+        "kanal": "HOPE CHANNEL INTERNATIONAL",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "EATV 5 (EAST AFRICA TELEVISION)",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TBC 1 TANZANIA",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "CHANNEL TEN",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "CLOUD TV",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "DIZZIM TV",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TV1 TANZANIA",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TANZANIA SAFARI CHANNEL",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "AGAPE TV NETWORK",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TV-E",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "MAHAASIN TV",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "RT NEWS",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "DW ENGLISH",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "FRANCE 24 ENGLISH",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "VOA TV AFRICA",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "BBC WORLD NEWS AFRICA",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "NHK WORLD JAPAN",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "CGTN",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "STAR TV TANZANIA",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "STAR MOVIES + TANZANIA",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "STAR EDUCATION",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "STAR TOLLYWOOD",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "STAR RELIGION",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "STAR TV PLUS",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "STAR KIDS",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "KTN KENYA",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "CITIZEN TV",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "K24 TV",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "NTV KENYA",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "EMMANUEL TV",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TV IMAAN",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "RADIO IMAAN",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TBC 2",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "WASAFI TV",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "IBN TV TANZANIA",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "IBN TV AFRICA",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "CLOUDS PLUS",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "CAPITAL TV TANZANIA",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TV SIBUKA",
+        "frekans": "11637 V 30000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "FAMILY TV",
+        "frekans": "11656.65 V 2664",
+        "band": "Ku"
+    },
+    {
+        "kanal": "YAKKATV",
+        "frekans": "12510.5 H 12500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "GOSPEL TV",
+        "frekans": "12510.5 H 12500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "EVASION TV",
+        "frekans": "12510.5 H 12500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "AFROBIT TV",
+        "frekans": "12510.5 H 12500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "YAKKA TV",
+        "frekans": "12510.5 H 12500",
+        "band": "Ku"
+    },
+    {
+        "kanal": "STANDART VOICE FM",
+        "frekans": "12689 H 5000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "TOP TV",
+        "frekans": "12689 H 5000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "EJOK FM",
+        "frekans": "12689 H 5000",
+        "band": "Ku"
+    },
+    {
+        "kanal": "ABOOD FM",
+        "frekans": "12689 H 5000",
+        "band": "Ku"
+    }
+]
